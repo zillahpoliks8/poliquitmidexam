@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1094595535000",
+    "firebase_url": "https://poliquitmidexam.firebaseio.com",
+    "project_id": "poliquitmidexam",
+    "storage_bucket": "poliquitmidexam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094595535000:android:c5d0fb0b670aa68b",
+        "android_client_info": {
+          "package_name": "com.uic.midtermexam.poliquitmidexam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094595535000-g5bo9u4lu9rqvaa6tpbs6j291cm8esel.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uic.midtermexam.poliquitmidexam",
+            "certificate_hash": "3a668c7419ceccc7e584d5caaf80cf963dd96c8a"
+          }
+        },
+        {
+          "client_id": "1094595535000-cphkoigm304ni4rgohdg9sre9d3f678p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwdK0hCTJpqB2vhgAAY1EVH2iTvLS-sbk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094595535000-cphkoigm304ni4rgohdg9sre9d3f678p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

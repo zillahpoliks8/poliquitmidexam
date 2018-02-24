@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">poliquitmidexam</string>
+    <string name="title_activity_location">Map</string>
+
+    <string name="location_without_internet">Get Location Without Internet</string>
+    <string name="location_internet">Get Location Using Internet</string>
+    <string name="display_location">Your Location will be displayed here.</string>
+</resources>
